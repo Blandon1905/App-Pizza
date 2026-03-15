@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Clase principal del sistema Pizza App
+ * Clase principal del sistema Pizza-App
  * Contiene el menú interactivo en consola.
  */
 public class Main {
