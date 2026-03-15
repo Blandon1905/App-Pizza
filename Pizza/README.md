@@ -72,16 +72,22 @@ java Main
 
 ## Capturas del programa
 
+![Captura 1](image.png)
 
+![Captura 2](image-1.png)
 
+![Captura 3](image-2.png)
 ---
+![Captura 4](image-3.png)
+
+![Captura 5](image-4.png)
 
 ## Video de sustentación
 
 Link del video explicativo:
 
 ```
-PEGAR AQUÍ EL LINK DEL VIDEO
+
 ```
 
 ---
@@ -89,4 +95,3 @@ PEGAR AQUÍ EL LINK DEL VIDEO
 ## Autor
 
 Samuel Blandon Sanchez
-Proyecto desarrollado en Java usando pilas manuales con listas ligadas.

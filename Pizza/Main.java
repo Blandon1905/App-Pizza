@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Clase principal del sistema Pizza Track
+ * Clase principal del sistema Pizza App
  * Contiene el menú interactivo en consola.
  */
 public class Main {
@@ -17,7 +17,7 @@ public class Main {
         do {
 
             System.out.println("\n==============================");
-            System.out.println("        SISTEMA PIZZA TRACK");
+            System.out.println("        SISTEMA PIZZA APP");
             System.out.println("==============================");
             System.out.println("1. Registrar Pizza");
             System.out.println("2. Deshacer (Undo)");
