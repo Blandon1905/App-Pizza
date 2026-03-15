@@ -73,7 +73,7 @@ java Main
 ## Capturas del programa
 
 ### Menú del sistema
-![Menu](menu.png)
+
 ![Captura 1](image-1.png)
 ![Captura 2](image-2.png)
 ![Captura 3](image-3.png)
@@ -90,6 +90,6 @@ https://drive.google.com/file/d/1BsIK7SR-eNszWTQERbyPfVyBHtaDOkH6/view?usp=shari
 
 ---
 
-## Autor
+Autor
 
 Samuel Blandon Sanchez
