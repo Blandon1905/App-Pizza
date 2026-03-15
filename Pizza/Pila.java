@@ -1,3 +1,4 @@
+// Pila.java
 /**
  * Clase Pila
  * Implementa una pila manual utilizando una lista ligada.
