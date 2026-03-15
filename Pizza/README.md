@@ -72,15 +72,13 @@ java Main
 
 ## Capturas del programa
 
-![Captura 1](image.png)
-
-![Captura 2](image-1.png)
-
-![Captura 3](image-2.png)
----
-![Captura 4](image-3.png)
-
-![Captura 5](image-4.png)
+### Menú del sistema
+![Menu](menu.png)
+![Captura 1](image-1.png)
+![Captura 2](image-2.png)
+![Captura 3](image-3.png)
+![Captura 4](image-4.png)
+![Captura 5](image-5.png)
 
 ## Video de sustentación
 
