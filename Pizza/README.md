@@ -89,3 +89,4 @@ PEGAR AQUÍ EL LINK DEL VIDEO
 ## Autor
 
 Samuel Blandon Sanchez
+Proyecto desarrollado en Java usando pilas manuales con listas ligadas.
